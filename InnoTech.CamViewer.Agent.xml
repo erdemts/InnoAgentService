@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AgentConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ReferenceNumber>TEST01</ReferenceNumber>
+  <AutoWifi>true</AutoWifi>
+  <IpforWifi>{DB615328-A4CE-4CF1-A3CC-93988F57E1C2}</IpforWifi>
+  <Auto3G>true</Auto3G>
+  <Ipfor3G>{DB615328-A4CE-4CF1-A3CC-93988F57E1C2}</Ipfor3G>
+  <CamCount>2</CamCount>
+  <Period>100</Period>
+  <ServerAddress>http://192.168.77.3/InnoWebAgent/Services/CamAgent.asmx</ServerAddress>
+</AgentConfig>
